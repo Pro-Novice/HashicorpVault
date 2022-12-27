@@ -9,7 +9,7 @@ Download vault:
     
     $ sudo apt update && sudo apt install vault
 
-set the path to vault bin
+set the path to vault bin (bin.zip is included, view it raw to download the file).
 
 
 Before writing any code, to get you up and running quickly, start Vault in “Dev” Server mode, by running the following command.
